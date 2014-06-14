@@ -1,0 +1,273 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AM	.\random.c	48;"	d	file:
+AM	.\random.c	8;"	d	file:
+ARBITRARY_SCALE	.\test.h	18;"	d
+COVARIANCE_SUFFIX	.\test.c	43;"	d	file:
+COV_ESTIMATE_BETA	.\test.h	38;"	d
+COV_ESTIMATE_Fn_Fn	.\test.h	39;"	d
+COV_ESTIMATE_Fz_Fz	.\test.h	40;"	d
+COV_ESTIMATE_Td_Td	.\test.h	36;"	d
+COV_ESTIMATE_Wd_Wd	.\test.h	37;"	d
+COV_SYSTEM_BETA	.\test.h	32;"	d
+COV_SYSTEM_Fn_Fn	.\test.h	33;"	d
+COV_SYSTEM_Tx_Tx	.\test.h	26;"	d
+COV_SYSTEM_Ty_Ty	.\test.h	27;"	d
+COV_SYSTEM_Tz_Tz	.\test.h	28;"	d
+COV_SYSTEM_Wx_Wx	.\test.h	29;"	d
+COV_SYSTEM_Wy_Wy	.\test.h	30;"	d
+COV_SYSTEM_Wz_Wz	.\test.h	31;"	d
+DEFAULT_SAMPLE_STD_DEV	.\test.c	39;"	d	file:
+EPS	.\random.c	13;"	d	file:
+EPS	.\random.c	53;"	d	file:
+ESTIMATE_BETA	.\test.h	22;"	d
+ESTIMATE_WORLD_Z	.\test.h	23;"	d
+FEATURE_MOTION_THRESHOLD	.\test.c	35;"	d	file:
+FINAL_CHI_THRESHOLD	.\test.c	36;"	d	file:
+FIXED_FEATURE	.\test.c	38;"	d	file:
+FREE_ARG	.\matmath.c	18;"	d	file:
+HELLO	.\test.c	28;"	d	file:
+IA	.\random.c	46;"	d	file:
+IA	.\random.c	6;"	d	file:
+IM	.\random.c	47;"	d	file:
+IM	.\random.c	7;"	d	file:
+IMPROVE_DEBUG	.\test.c	30;"	d	file:
+IQ	.\random.c	49;"	d	file:
+IQ	.\random.c	9;"	d	file:
+IR	.\random.c	10;"	d	file:
+IR	.\random.c	50;"	d	file:
+ITERATION_DIVERGENCE	.\kalman.c	26;"	d	file:
+ITERATION_THRESHOLD	.\kalman.c	25;"	d	file:
+MAX_LEVENBERG_ITER	.\test.c	37;"	d	file:
+MIN_QUATERNION_MAGNITUDE	.\matmath.h	68;"	d
+NDIV	.\random.c	12;"	d	file:
+NDIV	.\random.c	52;"	d	file:
+NR_END	.\matmath.c	17;"	d	file:
+NTAB	.\random.c	11;"	d	file:
+NTAB	.\random.c	51;"	d	file:
+OUTPUT_SUFFIX	.\test.c	44;"	d	file:
+PRINT_DEBUG	.\kalman.h	8;"	d
+QUATERNION_SIZE	.\matmath.h	67;"	d
+RNMX	.\random.c	14;"	d	file:
+RNMX	.\random.c	54;"	d	file:
+SFM_STATE_SIZE	.\test.h	5;"	d
+STATE_B	.\test.h	15;"	d
+STATE_FEATURE_START	.\test.h	16;"	d
+STATE_Tx	.\test.h	9;"	d
+STATE_Ty	.\test.h	10;"	d
+STATE_Tz	.\test.h	11;"	d
+STATE_Wx	.\test.h	12;"	d
+STATE_Wy	.\test.h	13;"	d
+STATE_Wz	.\test.h	14;"	d
+SWAP	.\matmath.c	224;"	d	file:
+SWAP	.\matmath.c	279;"	d	file:
+SWAP	.\mrqmin.c	298;"	d	file:
+SWAP	.\mrqmin.c	336;"	d	file:
+VECSIZE	.\eval_camera.c	20;"	d	file:
+VECSIZE	.\eval_camera.c	243;"	d	file:
+VECSIZE	.\kalman_camera.c	324;"	d	file:
+VECSIZE	.\kalman_camera.c	87;"	d	file:
+X	.\eval_camera.c	17;"	d	file:
+X	.\eval_camera.c	240;"	d	file:
+X	.\kalman_camera.c	321;"	d	file:
+X	.\kalman_camera.c	84;"	d	file:
+Y	.\eval_camera.c	18;"	d	file:
+Y	.\eval_camera.c	241;"	d	file:
+Y	.\kalman_camera.c	322;"	d	file:
+Y	.\kalman_camera.c	85;"	d	file:
+Z	.\eval_camera.c	19;"	d	file:
+Z	.\eval_camera.c	242;"	d	file:
+Z	.\kalman_camera.c	323;"	d	file:
+Z	.\kalman_camera.c	86;"	d	file:
+Z_FACTOR	.\test.c	530;"	d	file:
+__MATMATH_H__	.\matmath.h	2;"	d
+add_noise	.\test.c	/^void add_noise( int num_steps, int num_features, m_elem **R,$/;"	f	signature:( int num_steps, int num_features, m_elem **R, m_elem **features, m_elem **noisy_features )
+add_noise	.\test.c	/^void add_noise( int num_steps, int num_features, m_elem **R,$/;"	p	file:	signature:( int num_steps, int num_features, m_elem **R, m_elem **features, m_elem **noisy_features )
+alloc_buffers	.\test.c	/^void alloc_buffers( int num_features, int num_states );$/;"	p	file:	signature:( int num_features, int num_states )
+alloc_globals	.\kalman.c	/^static void alloc_globals( int num_state, int num_measurement )$/;"	f	file:	signature:( int num_state, int num_measurement )
+alloc_globals	.\kalman.c	/^static void alloc_globals( int num_state,$/;"	p	file:	signature:( int num_state, int num_measurement )
+apply_measurement	.\kalman.h	/^extern void apply_measurement( m_elem *new_state, m_elem *est_measurement );$/;"	p	signature:( m_elem *new_state, m_elem *est_measurement )
+apply_measurement	.\kalman_camera.c	/^void apply_measurement( m_elem *new_state, m_elem *est_measurement )$/;"	f	signature:( m_elem *new_state, m_elem *est_measurement )
+apply_system	.\kalman.h	/^extern void apply_system( m_elem *old_state, m_elem *new_state );$/;"	p	signature:( m_elem *old_state, m_elem *new_state )
+apply_system	.\kalman_camera.c	/^void apply_system( m_elem *old_state, m_elem *new_state )$/;"	f	signature:( m_elem *old_state, m_elem *new_state )
+calc_state_change	.\kalman.c	/^static m_elem calc_state_change( m_elem *a, m_elem *b )$/;"	f	file:	signature:( m_elem *a, m_elem *b )
+calc_state_change	.\kalman.c	/^static m_elem calc_state_change( m_elem *a, m_elem *b );$/;"	p	file:	signature:( m_elem *a, m_elem *b )
+camera_origin	.\eval_camera.c	/^static m_elem  camera_origin[ SFM_STATE_SIZE + 1 ] = {$/;"	v	file:
+convert_matrix	.\matmath.c	/^m_elem **convert_matrix(m_elem *a,$/;"	f	signature:(m_elem *a, long nrl, long nrh, long ncl, long nch)
+convert_matrix	.\matmath.h	/^extern m_elem **convert_matrix( m_elem *a, long nrl, long nrh,$/;"	p	signature:( m_elem *a, long nrl, long nrh, long ncl, long nch)
+cov_post	.\kalman.c	/^static m_elem  **cov_post;         \/* ptr to apriori covariance matrix, P(-) *\/$/;"	v	file:
+cov_pre	.\kalman.c	/^static m_elem  **cov_pre;          \/* ptr to apriori covariance matrix, P(-) *\/$/;"	v	file:
+covariance_fname	.\test.c	/^char  covariance_fname[ FILENAME_MAX ];$/;"	v
+covsrt	.\mrqmin.c	/^  void covsrt(m_elem **covar, int ma, int ia[], int mfit)$/;"	f	signature:(m_elem **covar, int ma, int ia[], int mfit)
+covsrt	.\mrqmin.c	/^  void covsrt(m_elem **covar, int ma, int ia[], int mfit);$/;"	p	file:	signature:(m_elem **covar, int ma, int ia[], int mfit)
+cvector	.\matmath.c	/^unsigned char *cvector(long nl, long nh)$/;"	f	signature:(long nl, long nh)
+cvector	.\matmath.h	/^extern unsigned char *cvector(long nl, long nh);$/;"	p	signature:(long nl, long nh)
+dbgstr	.\test.c	/^char  dbgstr[ 64 ];$/;"	v
+debug	.\test.c	/^int   debug = 0;$/;"	v
+dmatrix	.\matmath.c	/^double **dmatrix(long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(long nrl, long nrh, long ncl, long nch)
+dmatrix	.\matmath.h	/^extern double **dmatrix(long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(long nrl, long nrh, long ncl, long nch)
+dvector	.\matmath.c	/^double *dvector(long nl, long nh)$/;"	f	signature:(long nl, long nh)
+dvector	.\matmath.h	/^extern double *dvector(long nl, long nh);$/;"	p	signature:(long nl, long nh)
+estimate_fname	.\test.c	/^char  estimate_fname[ FILENAME_MAX ] = "";$/;"	v
+estimate_prob	.\kalman.c	/^static void estimate_prob( m_elem **P_post, m_elem **Phi, m_elem **GQGt,$/;"	f	file:	signature:( m_elem **P_post, m_elem **Phi, m_elem **GQGt, m_elem **P_pre )
+estimate_prob	.\kalman.c	/^static void estimate_prob( m_elem **P_post, m_elem **Phi, m_elem **GQGt,$/;"	p	file:	signature:( m_elem **P_post, m_elem **Phi, m_elem **GQGt, m_elem **P_pre )
+eval_camera	.\eval_camera.c	/^void eval_camera( m_elem x, m_elem a[], m_elem *yfit, m_elem dyda[],$/;"	f	signature:( m_elem x, m_elem a[], m_elem *yfit, m_elem dyda[], int state_size )
+eval_camera	.\test.c	/^extern void eval_camera( m_elem x, m_elem a[], m_elem *yfit, m_elem dyda[],$/;"	p	file:	signature:( m_elem x, m_elem a[], m_elem *yfit, m_elem dyda[], int state_size )
+extended_kalman_init	.\kalman.c	/^void extended_kalman_init( m_elem **GQGt, m_elem **R, m_elem **P, m_elem *x,$/;"	f	signature:( m_elem **GQGt, m_elem **R, m_elem **P, m_elem *x, int num_state, int num_measurement )
+extended_kalman_init	.\kalman.h	/^extern void extended_kalman_init( m_elem **GQGt, m_elem **R, m_elem **P,$/;"	p	signature:( m_elem **GQGt, m_elem **R, m_elem **P, m_elem *x, int state_size, int measure_size )
+extended_kalman_step	.\kalman.c	/^void extended_kalman_step( m_elem *z_in )$/;"	f	signature:( m_elem *z_in )
+extended_kalman_step	.\kalman.h	/^extern void extended_kalman_step( m_elem *z_in );$/;"	p	signature:( m_elem *z_in )
+feature_fname	.\test.c	/^char  feature_fname[ FILENAME_MAX ];$/;"	v
+feature_size	.\test.c	/^int   feature_size;$/;"	v
+fmatrix	.\matmath.c	/^float **fmatrix(long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(long nrl, long nrh, long ncl, long nch)
+fmatrix	.\matmath.h	/^extern float **fmatrix(long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(long nrl, long nrh, long ncl, long nch)
+free_buffers	.\test.c	/^void free_buffers( void );$/;"	p	file:	signature:( void )
+free_convert_matrix	.\matmath.c	/^void free_convert_matrix(float **b, long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(float **b, long nrl, long nrh, long ncl, long nch)
+free_convert_matrix	.\matmath.h	/^extern void free_convert_matrix(float **b, long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(float **b, long nrl, long nrh, long ncl, long nch)
+free_cvector	.\matmath.c	/^void free_cvector(unsigned char *v, long nl, long nh)$/;"	f	signature:(unsigned char *v, long nl, long nh)
+free_cvector	.\matmath.h	/^extern void free_cvector(unsigned char *v, long nl, long nh);$/;"	p	signature:(unsigned char *v, long nl, long nh)
+free_dmatrix	.\matmath.c	/^void free_dmatrix(double **m, long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(double **m, long nrl, long nrh, long ncl, long nch)
+free_dmatrix	.\matmath.h	/^extern void free_dmatrix(double **m, long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(double **m, long nrl, long nrh, long ncl, long nch)
+free_dvector	.\matmath.c	/^void free_dvector(double *v, long nl, long nh)$/;"	f	signature:(double *v, long nl, long nh)
+free_dvector	.\matmath.h	/^extern void free_dvector(double *v, long nl, long nh);$/;"	p	signature:(double *v, long nl, long nh)
+free_fmatrix	.\matmath.c	/^void free_fmatrix(float **m, long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(float **m, long nrl, long nrh, long ncl, long nch)
+free_fmatrix	.\matmath.h	/^extern void free_fmatrix(float **m, long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(float **m, long nrl, long nrh, long ncl, long nch)
+free_fvector	.\matmath.c	/^void free_fvector(float *v, long nl, long nh)$/;"	f	signature:(float *v, long nl, long nh)
+free_fvector	.\matmath.h	/^extern void free_fvector(float *v, long nl, long nh);$/;"	p	signature:(float *v, long nl, long nh)
+free_imatrix	.\matmath.c	/^void free_imatrix(int **m, long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(int **m, long nrl, long nrh, long ncl, long nch)
+free_imatrix	.\matmath.h	/^extern void free_imatrix(int **m, long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(int **m, long nrl, long nrh, long ncl, long nch)
+free_ivector	.\matmath.c	/^void free_ivector(int *v, long nl, long nh)$/;"	f	signature:(int *v, long nl, long nh)
+free_ivector	.\matmath.h	/^extern void free_ivector(int *v, long nl, long nh);$/;"	p	signature:(int *v, long nl, long nh)
+free_lvector	.\matmath.c	/^void free_lvector(unsigned long *v, long nl, long nh)$/;"	f	signature:(unsigned long *v, long nl, long nh)
+free_lvector	.\matmath.h	/^extern void free_lvector(unsigned long *v, long nl, long nh);$/;"	p	signature:(unsigned long *v, long nl, long nh)
+free_matrix	.\matmath.c	/^void free_matrix(m_elem  **m, long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(m_elem **m, long nrl, long nrh, long ncl, long nch)
+free_matrix	.\matmath.h	/^extern void free_matrix(m_elem **m, long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(m_elem **m, long nrl, long nrh, long ncl, long nch)
+free_submatrix	.\matmath.c	/^void free_submatrix(float **b, long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(float **b, long nrl, long nrh, long ncl, long nch)
+free_submatrix	.\matmath.h	/^extern void free_submatrix(float **b, long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(float **b, long nrl, long nrh, long ncl, long nch)
+free_vector	.\matmath.c	/^void free_vector(m_elem *v, long nl, long nh)$/;"	f	signature:(m_elem *v, long nl, long nh)
+free_vector	.\matmath.h	/^extern void free_vector(m_elem *v, long nl, long nh);$/;"	p	signature:(m_elem *v, long nl, long nh)
+fvector	.\matmath.c	/^float *fvector(long nl, long nh)$/;"	f	signature:(long nl, long nh)
+fvector	.\matmath.h	/^extern float *fvector(long nl, long nh);$/;"	p	signature:(long nl, long nh)
+gasdev	.\random.c	/^float gasdev(long *idum)$/;"	f	signature:(long *idum)
+gasdev	.\test.c	/^extern float gasdev( long *idum );  \/* random # gen, in random.c *\/$/;"	p	file:	signature:( long *idum )
+gaussj	.\matmath.c	/^void gaussj(m_elem **a, int n, m_elem **b, int m)$/;"	f	signature:(m_elem **a, int n, m_elem **b, int m)
+gaussj	.\matmath.h	/^extern void gaussj( m_elem **A, int n, m_elem **B, int m );$/;"	p	signature:( m_elem **A, int n, m_elem **B, int m )
+generate_measurement_transfer	.\kalman.h	/^extern void generate_measurement_transfer( m_elem *state, m_elem **H );$/;"	p	signature:( m_elem *state, m_elem **H )
+generate_measurement_transfer	.\kalman_camera.c	/^void generate_measurement_transfer( m_elem *state, m_elem **H )$/;"	f	signature:( m_elem *state, m_elem **H )
+generate_system_transfer	.\kalman.h	/^extern void generate_system_transfer( m_elem *state, m_elem **phi );$/;"	p	signature:( m_elem *state, m_elem **phi )
+generate_system_transfer	.\kalman_camera.c	/^void generate_system_transfer( m_elem *state, m_elem **phi )$/;"	f	signature:( m_elem *state, m_elem **phi )
+global_rotation	.\test.c	/^m_elem   global_rotation[ QUATERNION_SIZE ];$/;"	v
+global_step	.\kalman.c	/^int            global_step = 0;    \/* the current step number (k) *\/$/;"	v
+imatrix	.\matmath.c	/^int **imatrix(long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(long nrl, long nrh, long ncl, long nch)
+imatrix	.\matmath.h	/^extern int **imatrix(long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(long nrl, long nrh, long ncl, long nch)
+improve_estimate	.\test.c	/^void improve_estimate( int state_size, int feature_size, int num_frames,$/;"	f	signature:( int state_size, int feature_size, int num_frames, m_elem *state, m_elem **P, m_elem **features )
+improve_estimate	.\test.c	/^void improve_estimate( int state_size, int feature_size, int num_frames,$/;"	p	file:	signature:( int state_size, int feature_size, int num_frames, m_elem *state, m_elem **P, m_elem **features )
+init_estimate	.\test.c	/^void init_estimate( int num_states, int feature_size,$/;"	f	signature:( int num_states, int feature_size, m_elem *x, m_elem **P, m_elem **features )
+init_estimate	.\test.c	/^void init_estimate( int num_states, int feature_size,$/;"	p	file:	signature:( int num_states, int feature_size, m_elem *x, m_elem **P, m_elem **features )
+init_system_parms	.\test.c	/^void init_system_parms( int num_states, int num_features, m_elem **Q )$/;"	f	signature:( int num_states, int num_features, m_elem **Q )
+init_system_parms	.\test.c	/^void init_system_parms( int num_states, int num_features, m_elem **Q );$/;"	p	file:	signature:( int num_states, int num_features, m_elem **Q )
+iter_ext_kalman_init	.\kalman.c	/^void iter_ext_kalman_init( m_elem **GQGt, m_elem **R, m_elem **P, m_elem *x,$/;"	f	signature:( m_elem **GQGt, m_elem **R, m_elem **P, m_elem *x, int num_state, int num_measurement )
+iter_ext_kalman_init	.\kalman.h	/^extern void iter_ext_kalman_init( m_elem **GQGt, m_elem **R, m_elem **P,$/;"	p	signature:( m_elem **GQGt, m_elem **R, m_elem **P, m_elem *x, int state_size, int measure_size )
+iter_ext_kalman_step	.\kalman.c	/^void iter_ext_kalman_step( m_elem *z_in )$/;"	f	signature:( m_elem *z_in )
+iter_ext_kalman_step	.\kalman.h	/^extern void iter_ext_kalman_step( m_elem *z_in );$/;"	p	signature:( m_elem *z_in )
+iter_state0	.\kalman.c	/^static m_elem  *iter_state0;$/;"	v	file:
+iter_state1	.\kalman.c	/^static m_elem  *iter_state1;$/;"	v	file:
+iterate	.\test.c	/^int   iterate = 0;$/;"	v
+ivector	.\matmath.c	/^int *ivector(long nl, long nh)$/;"	f	signature:(long nl, long nh)
+ivector	.\matmath.h	/^extern int *ivector(long nl, long nh);$/;"	p	signature:(long nl, long nh)
+kalman_gain	.\kalman.c	/^static m_elem  **kalman_gain;      \/* The Kalman Gain matrix (K) *\/$/;"	v	file:
+kalman_get_state	.\kalman.c	/^m_elem *kalman_get_state( void )$/;"	f	signature:( void )
+kalman_get_state	.\kalman.h	/^extern m_elem *kalman_get_state( void );  \/* works for extended kalman too *\/$/;"	p	signature:( void )
+kalman_init	.\kalman.c	/^void kalman_init( m_elem **GQGt, m_elem **Phi, m_elem **H, m_elem **R,$/;"	f	signature:( m_elem **GQGt, m_elem **Phi, m_elem **H, m_elem **R, m_elem **P, m_elem *x, int num_state, int num_measurement )
+kalman_init	.\kalman.h	/^extern void kalman_init( m_elem **GQGt, m_elem **Phi, m_elem **H, m_elem **R,$/;"	p	signature:( m_elem **GQGt, m_elem **Phi, m_elem **H, m_elem **R, m_elem **P, m_elem *x, int state_size, int measure_size )
+kalman_step	.\kalman.c	/^void kalman_step( m_elem *z_in )$/;"	f	signature:( m_elem *z_in )
+kalman_step	.\kalman.h	/^extern void kalman_step( m_elem *z_in );$/;"	p	signature:( m_elem *z_in )
+load_features	.\test.c	/^void load_features( char *name, int num_features, int num_frames, $/;"	p	file:	signature:( char *name, int num_features, int num_frames, m_elem **features )
+load_features	.\test.c	/^void load_features( char *name, int num_features, int num_steps,$/;"	f	signature:( char *name, int num_features, int num_steps, m_elem **features )
+load_noise_cov	.\test.c	/^void load_noise_cov( char *name, int num_features, m_elem **R )$/;"	f	signature:( char *name, int num_features, m_elem **R )
+load_noise_cov	.\test.c	/^void load_noise_cov( char *name, int num_features, m_elem **R );$/;"	p	file:	signature:( char *name, int num_features, m_elem **R )
+lvector	.\matmath.c	/^unsigned long *lvector(long nl, long nh)$/;"	f	signature:(long nl, long nh)
+lvector	.\matmath.h	/^extern unsigned long *lvector(long nl, long nh);$/;"	p	signature:(long nl, long nh)
+m_elem	.\matmath.h	/^typedef double m_elem;$/;"	t
+main	.\test.c	/^void main( int argc, char **argv )$/;"	f	signature:( int argc, char **argv )
+mat_add	.\matmath.c	/^void mat_add( m_elem **a, m_elem **b, m_elem **c, int m, int n )$/;"	f	signature:( m_elem **a, m_elem **b, m_elem **c, int m, int n )
+mat_add	.\matmath.h	/^extern void mat_add( m_elem **A, m_elem **B, m_elem **C, int m, int n );$/;"	p	signature:( m_elem **A, m_elem **B, m_elem **C, int m, int n )
+mat_copy	.\matmath.c	/^void mat_copy( m_elem **src, m_elem **dst, int num_rows, int num_cols )$/;"	f	signature:( m_elem **src, m_elem **dst, int num_rows, int num_cols )
+mat_copy	.\matmath.h	/^extern void mat_copy( m_elem **A, m_elem **B, int num_rows,$/;"	p	signature:( m_elem **A, m_elem **B, int num_rows, int num_cols )
+mat_mult	.\matmath.c	/^void mat_mult( m_elem **a, m_elem **b, m_elem **c,$/;"	f	signature:( m_elem **a, m_elem **b, m_elem **c, int a_rows, int a_cols, int b_cols )
+mat_mult	.\matmath.h	/^extern void mat_mult( m_elem **A, m_elem **B, m_elem **C,$/;"	p	signature:( m_elem **A, m_elem **B, m_elem **C, int a_rows, int a_cols, int b_cols )
+mat_mult_transpose	.\matmath.c	/^void mat_mult_transpose( m_elem **a, m_elem **b, m_elem **c,$/;"	f	signature:( m_elem **a, m_elem **b, m_elem **c, int a_rows, int a_cols, int b_cols )
+mat_mult_transpose	.\matmath.h	/^extern void mat_mult_transpose( m_elem **A, m_elem **B, m_elem **C,$/;"	p	signature:( m_elem **A, m_elem **B, m_elem **C, int a_rows, int a_cols, int b_cols )
+mat_mult_vector	.\matmath.c	/^void mat_mult_vector( m_elem **a, m_elem *b, m_elem *c,$/;"	f	signature:( m_elem **a, m_elem *b, m_elem *c, int a_rows, int a_cols )
+mat_mult_vector	.\matmath.h	/^extern void mat_mult_vector( m_elem **A, m_elem *B, m_elem *C,$/;"	p	signature:( m_elem **A, m_elem *B, m_elem *C, int a_rows, int a_cols )
+mat_sub	.\matmath.c	/^void mat_sub( m_elem **a, m_elem **b, m_elem **c, int m, int n )$/;"	f	signature:( m_elem **a, m_elem **b, m_elem **c, int m, int n )
+mat_sub	.\matmath.h	/^extern void mat_sub( m_elem **A, m_elem **B, m_elem **C, int m, int n );$/;"	p	signature:( m_elem **A, m_elem **B, m_elem **C, int m, int n )
+mat_transpose_mult	.\matmath.c	/^void mat_transpose_mult( m_elem **A, m_elem **B, m_elem **C,$/;"	f	signature:( m_elem **A, m_elem **B, m_elem **C, int a_rows, int a_cols, int b_cols )
+mat_transpose_mult	.\matmath.h	/^extern void mat_transpose_mult( m_elem **A, m_elem **B, m_elem **C,$/;"	p	signature:( m_elem **A, m_elem **B, m_elem **C, int a_rows, int a_cols, int b_cols )
+matrix	.\matmath.c	/^m_elem **matrix(long nrl, long nrh, long ncl, long nch)$/;"	f	signature:(long nrl, long nrh, long ncl, long nch)
+matrix	.\matmath.h	/^extern m_elem **matrix(long nrl, long nrh, long ncl, long nch);$/;"	p	signature:(long nrl, long nrh, long ncl, long nch)
+mea_noise_cov	.\kalman.c	/^static m_elem  **mea_noise_cov;    \/* measurement noise variance vector (R)  *\/$/;"	v	file:
+mea_transfer	.\kalman.c	/^static m_elem  **mea_transfer;     \/* measurement transfer function (H) *\/$/;"	v	file:
+measurement_size	.\kalman.c	/^int            measurement_size;   \/* number of elems in measurement *\/$/;"	v
+mrqcof	.\mrqmin.c	/^  void mrqcof(m_elem x[], m_elem y[], m_elem sig[], int ndata, m_elem a[],$/;"	f	signature:(m_elem x[], m_elem y[], m_elem sig[], int ndata, m_elem a[], int ia[], int ma, m_elem **alpha, m_elem beta[], m_elem *chisq, void (*funcs)(m_elem, m_elem [], m_elem *, m_elem [], int))
+mrqcof	.\mrqmin.c	/^  void mrqcof(m_elem x[], m_elem y[], m_elem sig[], int ndata, m_elem a[],$/;"	p	file:	signature:(m_elem x[], m_elem y[], m_elem sig[], int ndata, m_elem a[], int ia[], int ma, m_elem **alpha, m_elem beta[], m_elem *chisq, void (*funcs)(m_elem, m_elem [], m_elem *, m_elem [], int))
+mrqmin	.\matmath.h	/^extern void mrqmin( m_elem x[], m_elem y[], m_elem sig[], int ndata,$/;"	p	signature:( m_elem x[], m_elem y[], m_elem sig[], int ndata, m_elem a[], int ia[], int ma, m_elem **covar, m_elem **alpha, m_elem *chisq, void (*funcs)(m_elem, m_elem [], m_elem *, m_elem [], int), m_elem *alamda)
+mrqmin	.\mrqmin.c	/^  void mrqmin( m_elem x[], m_elem y[], m_elem sig[], int ndata, m_elem a[],$/;"	f	signature:( m_elem x[], m_elem y[], m_elem sig[], int ndata, m_elem a[], int ia[], int ma, m_elem **covar, m_elem **alpha, m_elem *chisq, void (*funcs)(m_elem, m_elem [], m_elem *, m_elem [], int), m_elem *alamda)
+nrerror	.\matmath.c	/^void nrerror(char error_text[])$/;"	f	signature:(char error_text[])
+nrerror	.\matmath.h	/^extern void nrerror(char error_text[]);   \/*  internal error handler *\/$/;"	p	signature:(char error_text[])
+num_frames	.\test.c	/^int   num_frames;$/;"	v
+num_states	.\test.c	/^int   num_states;$/;"	v
+num_trials	.\test.c	/^int   num_trials = 1;$/;"	v
+output_fname	.\test.c	/^char  output_fname[ FILENAME_MAX ];$/;"	v
+parse_arguments	.\test.c	/^void parse_arguments( int argc, char **argv )$/;"	f	signature:( int argc, char **argv )
+parse_arguments	.\test.c	/^void parse_arguments( int argc, char **argv );$/;"	p	file:	signature:( int argc, char **argv )
+print_matrix	.\matmath.c	/^void print_matrix( char *str, m_elem **A, int m, int n )$/;"	f	signature:( char *str, m_elem **A, int m, int n )
+print_matrix	.\matmath.h	/^extern void print_matrix( char *str, m_elem **A, int m, int n );$/;"	p	signature:( char *str, m_elem **A, int m, int n )
+print_quaternion	.\matmath.c	/^void print_quaternion( char *str, m_elem *x )$/;"	f	signature:( char *str, m_elem *x )
+print_quaternion	.\matmath.h	/^extern void print_quaternion( char *str, m_elem *quat );$/;"	p	signature:( char *str, m_elem *quat )
+print_vector	.\matmath.c	/^void print_vector( char *str, m_elem *x, int n )$/;"	f	signature:( char *str, m_elem *x, int n )
+print_vector	.\matmath.h	/^extern void print_vector( char *str, m_elem *x, int n );$/;"	p	signature:( char *str, m_elem *x, int n )
+quaternion	.\matmath.c	/^m_elem *quaternion( void )$/;"	f	signature:( void )
+quaternion	.\matmath.h	/^extern m_elem *quaternion( void );$/;"	p	signature:( void )
+quaternion_to_rotation	.\matmath.c	/^void quaternion_to_rotation( m_elem *quat, m_elem **rot )$/;"	f	signature:( m_elem *quat, m_elem **rot )
+quaternion_to_rotation	.\matmath.h	/^extern void quaternion_to_rotation( m_elem *quat, m_elem **rot );$/;"	p	signature:( m_elem *quat, m_elem **rot )
+quaternion_update	.\matmath.c	/^void quaternion_update( m_elem *quat, m_elem wx,$/;"	f	signature:( m_elem *quat, m_elem wx, m_elem wy, m_elem wz )
+quaternion_update	.\matmath.h	/^extern void quaternion_update( m_elem *quat, m_elem wx,$/;"	p	signature:( m_elem *quat, m_elem wx, m_elem wy, m_elem wz )
+ran1	.\random.c	/^float ran1(long *idum)$/;"	f	signature:(long *idum)
+rseed	.\test.c	/^long  rseed = -1;$/;"	v
+save_estimate	.\test.c	/^void save_estimate( char *name, int num_states,	m_elem *state )$/;"	f	signature:( char *name, int num_states, m_elem *state )
+save_estimate	.\test.c	/^void save_estimate( char *name, int num_states,	m_elem *state );$/;"	p	file:	signature:( char *name, int num_states, m_elem *state )
+save_track	.\test.c	/^void save_track( char *name, int num_steps, int num_states,$/;"	f	signature:( char *name, int num_steps, int num_states, m_elem **trajectory )
+save_track	.\test.c	/^void save_track( char *name, int num_steps, int num_states,$/;"	p	file:	signature:( char *name, int num_steps, int num_states, m_elem **trajectory )
+state_post	.\kalman.c	/^static m_elem  *state_post;        \/* ptr to aposteriori state vectors, x(+) *\/$/;"	v	file:
+state_pre	.\kalman.c	/^static m_elem  *state_pre;         \/* ptr to apriori state vectors, x(-)     *\/$/;"	v	file:
+state_size	.\kalman.c	/^int            state_size;         \/* number of elements in state    *\/$/;"	v
+submatrix	.\matmath.c	/^m_elem **submatrix(m_elem **a,$/;"	f	signature:(m_elem **a, long oldrl, long oldrh, long oldcl, long oldch, long newrl, long newcl)
+submatrix	.\matmath.h	/^extern m_elem **submatrix(m_elem **a,$/;"	p	signature:(m_elem **a, long oldrl, long oldrh, long oldcl, long oldch, long newrl, long newcl)
+sys_noise_cov	.\kalman.c	/^static m_elem  **sys_noise_cov;    \/* system noise covariance matrix (GQGt)  *\/$/;"	v	file:
+sys_transfer	.\kalman.c	/^static m_elem  **sys_transfer;     \/* system transfer function (Phi)    *\/$/;"	v	file:
+take_inverse	.\kalman.c	/^static void take_inverse( m_elem **in, m_elem **out, int n )$/;"	f	file:	signature:( m_elem **in, m_elem **out, int n )
+take_inverse	.\kalman.c	/^static void take_inverse( m_elem **in, m_elem **out, int n );$/;"	p	file:	signature:( m_elem **in, m_elem **out, int n )
+temp_meas_2	.\kalman.c	/^static m_elem  **temp_meas_2;      \/* another one ! *\/$/;"	v	file:
+temp_meas_meas	.\kalman.c	/^static m_elem  **temp_meas_meas;   \/* a measurement_size squared matrix *\/$/;"	v	file:
+temp_meas_state	.\kalman.c	/^static m_elem  **temp_meas_state;  \/* a measurement_size x state_size matrix *\/$/;"	v	file:
+temp_state_state	.\kalman.c	/^static m_elem  **temp_state_state; \/* a state_size x state_size matrix *\/$/;"	v	file:
+update_prob	.\kalman.c	/^static void update_prob( m_elem **P_pre, m_elem **R, m_elem **H,$/;"	f	file:	signature:( m_elem **P_pre, m_elem **R, m_elem **H, m_elem **P_post, m_elem **K )
+update_prob	.\kalman.c	/^static void update_prob( m_elem **P_pre, m_elem **R, m_elem **H,$/;"	p	file:	signature:( m_elem **P_pre, m_elem **R, m_elem **H, m_elem **P_post, m_elem **K )
+update_system	.\kalman.c	/^static void update_system( m_elem *z, m_elem *x_minus,$/;"	p	file:	signature:( m_elem *z, m_elem *x_minus, m_elem **kalman_gain, m_elem *x_plus )
+update_system	.\kalman.c	/^static void update_system( m_elem *z, m_elem *x_pre,$/;"	f	file:	signature:( m_elem *z, m_elem *x_pre, m_elem **K, m_elem *x_post )
+usage	.\test.c	/^void usage( char *str )$/;"	f	signature:( char *str )
+usage	.\test.c	/^void usage( char *str );$/;"	p	file:	signature:( char *str )
+vec_add	.\matmath.c	/^void vec_add( m_elem *a, m_elem *b, m_elem *c, int n )$/;"	f	signature:( m_elem *a, m_elem *b, m_elem *c, int n )
+vec_add	.\matmath.h	/^extern void vec_add( m_elem *A, m_elem *B, m_elem *C, int n );$/;"	p	signature:( m_elem *A, m_elem *B, m_elem *C, int n )
+vec_copy	.\matmath.c	/^void vec_copy( m_elem *src, m_elem *dst, int num_elements )$/;"	f	signature:( m_elem *src, m_elem *dst, int num_elements )
+vec_copy	.\matmath.h	/^extern void vec_copy( m_elem *src, m_elem *dst, int num_elements );$/;"	p	signature:( m_elem *src, m_elem *dst, int num_elements )
+vec_sub	.\matmath.c	/^void vec_sub( m_elem *a, m_elem *b, m_elem *c, int n )$/;"	f	signature:( m_elem *a, m_elem *b, m_elem *c, int n )
+vec_sub	.\matmath.h	/^extern void vec_sub( m_elem *A, m_elem *B, m_elem *C, int n );$/;"	p	signature:( m_elem *A, m_elem *B, m_elem *C, int n )
+vector	.\matmath.c	/^m_elem *vector(long nl, long nh)$/;"	f	signature:(long nl, long nh)
+vector	.\matmath.h	/^extern m_elem *vector(long nl, long nh);$/;"	p	signature:(long nl, long nh)
+z_estimate	.\kalman.c	/^static m_elem  *z_estimate;        \/* a measurement_size x 1 vector *\/$/;"	v	file:
